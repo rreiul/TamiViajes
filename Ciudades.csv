@@ -1,0 +1,50 @@
+NOMBRE,nHabitantes,idioma,salarioMinimo,costa,temperatura
+Tokyo,13.900.000,japones,medio,si,16
+Boston,650.000,ingles,medio,si,17
+New York,8.556.000,ingles,medio,no,14
+Sydney,5.300.000,ingles,alto,si,22
+Singapore,5.660.000,malayo,bajo,si,23
+Dallas-Fort Worth,1.330.000,ingles,medio,no,14
+Seoul,9.770.000,coreano,medio,no,14
+Houston,2.310.000,ingles,medio,no,15
+Chicago,2.710.000,Inglés,alto,si,17
+Paris,2.161.000,frances,alto,no,16
+London,8.982.000,ingles,alto,si,19
+San Francisco - San Jose,874.961,ingles,alto,si,18
+Atlanta,488.800,ingles,alto,no,19
+Seattle,724.305,ingles,alto,si,20
+Shanghai,26.320.000,chino,medio,si,17
+Stockholm,975.551,sueco,alto,si,12
+Miami,454.279,ingles,medio,si,27
+Washington DC,692.683,ingles,medio,si,14
+Beijing,21.540.000,chino,medio,no,13
+Los Angeles,3.967.000,ingles,medio,si,16
+Austin,950.807,ingles,medio,no,15
+Vienna,1.897.000,aleman,medio,no,13
+Taipei,2.646.000,chino,medio,si,18
+Amsterdam,872.757,neerlandes,medio,si,13
+Oslo,602.445,noruego,alto,si,10
+Shenzhen,12.590.000,chino,alto,si,14
+Las Vegas,634.773,ingles,medio,no,17
+Denver,705.576,ingles,medio,no,15
+Dubai,3.331.000,arabe,alto,si,30
+Osaka,2.691.000,japones,medio,si,26
+Berlin,3.645.000,aleman,medio,no,15
+Istanbul,15.460.000,turco,medio,si,23
+Melbourne,5.078.000,ingles,alto,si,14
+Moscow,11.920.000,ruso,bajo,no,16
+Philadelphia,1.579.000,ingles,medio,no,13
+Portland,645.291,ingles,medio,no,14
+Minneapolis-St Paul,3.112.000,ingles,medio,no,8
+Nashville,692.587,ingles,medio,no,16
+Munich,1.472.000,aleman,medio,no,10
+Madrid,3.223.000,espanol,medio,no,14
+Helsinki,631.695,finlandes,alto,si,5
+Brisbane,2.274.560,ingles,medio,si,18
+Toronto,7.853.815,ingles,medio,si,13
+Phoenix,47.669,ingles,medio,no,22
+San Diego,1.300.000,ingles,medio,si,18
+Charlotte,730.000,ingles,medio,no,8
+Kansas City,"486,404",ingles,medio,no,12
+San Antonio,136.594,ingles,medio,no,21
+Hong Kong,7.428.000,chino,bajo,si,23

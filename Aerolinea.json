@@ -1,0 +1,27 @@
+{"compañia":[
+ {
+   "Nombre": "Qatar Airways",
+   "ingresos": 8040000000,
+   "nAviones": 235
+ },
+ {
+   "Nombre": "Emirates",
+   "ingresos": 300000000,
+   "nAviones": 269
+ },
+ {
+   "Nombre": "Ryanair",
+   "ingresos": 1636000000,
+   "nAviones": 470
+ },
+ {
+   "Nombre": "AirEuropa",
+   "ingresos": 2350000000,
+   "nAviones": 195
+ },
+ {
+   "Nombre": "Turkey Airlines",
+   "ingresos": 12500000000,
+   "nAviones": 350
+ }
+]}
